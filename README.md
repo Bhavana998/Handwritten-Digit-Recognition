@@ -189,10 +189,7 @@ Bhavana
 Project: Handwritten Digit Recognition
 
 📄 License
-This project is for educational purposes.
-
-🙏 Acknowledgments
-MNIST dataset creators
+MIT License
 
 scikit-learn contributors
 
