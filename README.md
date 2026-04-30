@@ -58,7 +58,7 @@ This project implements and compares three different machine learning algorithms
 | **Testing Set** | 14,000 images (20%) |
 
 **Sample Images from Dataset:**
-![Sample images](Outputs/sample images.png)
+![Sample Images from Dataset](Outputs/sample_digits.png)
 
 **Flow Diagram:**
 ![flow diagram](Outputs/flow_diagram.png)
