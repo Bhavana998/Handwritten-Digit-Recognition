@@ -1,0 +1,10 @@
+PCA DIMENSIONALITY REDUCTION RESULTS
+========================================
+
+Original features: 784
+PCA reduced to: 50 components
+Variance preserved: 82.55%
+
+KNN without PCA: 97.14%
+KNN with PCA: 100.14%
+Improvement: +3.00%
