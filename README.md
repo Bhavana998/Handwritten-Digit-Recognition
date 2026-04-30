@@ -132,6 +132,14 @@ Model	Confusion Matrix
 KNN	https://Outputs/confusion_matrix_knn.png
 SVM	https://Outputs/confusion_matrix_svm.png
 Decision Tree	https://Outputs/confusion_matrix_dt.png
+
+Handwritten-Digit-Recognition/
+│
+├── mnist_classical_ml.ipynb   ⭐ MAIN
+├── README.md
+├── data/
+└── outputs/ (images, plots)
+
 🔍 Misclassification Analysis
 Statistics
 Metric	Value
@@ -236,6 +244,7 @@ Expanded hyperparameter grid search	+1-2% accuracy
 Cross-validation for all models	More reliable evaluation
 XGBoost / Random Forest	Additional benchmarks
 Hyperparameter tuning with Optuna	Automated optimization
+
 📚 References
 LeCun, Y., Cortes, C., & Burges, C. (1998). The MNIST Database of Handwritten Digits
 
