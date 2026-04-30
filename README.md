@@ -151,6 +151,7 @@ For example:
 - 4 and 9 can be confused due to similar strokes
 - Poor handwriting or low contrast pixels can reduce model accuracy
 This shows that even strong models like SVM struggle with ambiguous patterns.
+For instance, in one case the model predicted 5 instead of 3 because the top curve was not clearly closed, making it resemble a 5.
 
 🔍 Misclassification Analysis
 Statistics
