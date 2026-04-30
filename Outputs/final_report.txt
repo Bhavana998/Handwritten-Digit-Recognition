@@ -1,0 +1,12 @@
+==================================================
+HANDWRITTEN DIGIT RECOGNITION REPORT
+==================================================
+
+KNN Accuracy: 97.14%
+SVM Accuracy: 95.92%
+Decision Tree Accuracy: 88.14%
+
+Best Model: SVM
+
+Common misclassifications: 4↔9, 7↔1, 3↔8, 2↔5
+Improvements: PCA, Data Augmentation, Ensemble
