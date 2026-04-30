@@ -133,6 +133,8 @@ KNN	https://Outputs/confusion_matrix_knn.png
 SVM	https://Outputs/confusion_matrix_svm.png
 Decision Tree	https://Outputs/confusion_matrix_dt.png
 
+📁 Project Structure
+
 Handwritten-Digit-Recognition/
 │
 ├── mnist_classical_ml.ipynb   ⭐ MAIN
