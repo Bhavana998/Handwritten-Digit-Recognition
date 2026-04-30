@@ -58,9 +58,8 @@ This project implements and compares three different machine learning algorithms
 | **Testing Set** | 14,000 images (20%) |
 
 **Sample Images from Dataset:**
-![Sample Images from Dataset](Outputs/sample_image.png)
+![Sample Images](./Outputs/sample_images.png)
 
-**Flow Diagram:**
 ![flow diagram](Outputs/flow_diagram.png)
 
 ---
@@ -143,6 +142,15 @@ Handwritten-Digit-Recognition/
 ├── README.md
 ├── data/
 └── outputs/ (images, plots)
+
+## Misclassification Analysis
+
+Some digits are misclassified due to visual similarity between classes. 
+For example:
+- Digits like 3 and 5 often look similar
+- 4 and 9 can be confused due to similar strokes
+- Poor handwriting or low contrast pixels can reduce model accuracy
+This shows that even strong models like SVM struggle with ambiguous patterns.
 
 🔍 Misclassification Analysis
 Statistics
