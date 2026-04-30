@@ -81,23 +81,12 @@ pip install numpy pandas matplotlib seaborn scikit-learn graphviz
 jupyter notebook Handwritten_Digit_Recognition.ipynb
 
 ## 📁 Project Structure
-Handwritten_Digit_Recognition/
+mnist_classical_ml/
 │
-├── Handwritten_Digit_Recognition.ipynb # Main notebook
-│
-├── output_images/ # Generated outputs
-│ ├── sample_digits.png # Sample images
-│ ├── confusion_matrix_knn.png # KNN confusion matrix
-│ ├── confusion_matrix_svm.png # SVM confusion matrix
-│ ├── confusion_matrix_dt.png # DT confusion matrix
-│ ├── model_comparison.png # Performance comparison
-│ ├── misclassified_samples.png # Error analysis
-│ ├── pca_comparison.png # PCA effect visualization
-│ ├── final_report.txt # Results summary
-│ └── pca_analysis.txt # PCA detailed analysis
-│
-└── flow_diagram.png # Project workflow diagram
-
+├── mnist_classical_ml.ipynb   ⭐ MAIN
+├── README.md
+├── data/
+├── outputs/ (images, plots)
 
 📈 Model Performance Details
 Per-Digit Accuracy (Best Model - SVM)
