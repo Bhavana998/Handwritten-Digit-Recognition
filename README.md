@@ -63,7 +63,22 @@ This project implements and compares three different machine learning algorithms
 | **Dimensionality Reduction** | PCA |
 | **Environment** | Google Colab |
 
----
+## 🚀 Getting Started
+
+### Option 1: Run on Google Colab (Recommended)
+
+Click the badge at the top of this README or use the link below:
+
+🔗 **Open in Colab:** https://colab.research.google.com/drive/1iogJp_1jGp3csVtF3cw61U8PE36KGcOU?usp=sharing
+
+### Option 2: Run Locally
+
+```bash
+# Install required packages
+pip install numpy pandas matplotlib seaborn scikit-learn graphviz
+
+# Launch Jupyter Notebook
+jupyter notebook Handwritten_Digit_Recognition.ipynb
 
 ## 📁 Project Structure
 Handwritten_Digit_Recognition/
@@ -83,26 +98,6 @@ Handwritten_Digit_Recognition/
 │
 └── flow_diagram.png # Project workflow diagram
 
-text
-
----
-
-## 🚀 Getting Started
-
-### Option 1: Run on Google Colab (Recommended)
-
-Click the badge at the top of this README or use the link below:
-
-🔗 **Open in Colab:** https://colab.research.google.com/drive/1iogJp_1jGp3csVtF3cw61U8PE36KGcOU?usp=sharing
-
-### Option 2: Run Locally
-
-```bash
-# Install required packages
-pip install numpy pandas matplotlib seaborn scikit-learn graphviz
-
-# Launch Jupyter Notebook
-jupyter notebook Handwritten_Digit_Recognition.ipynb
 
 📈 Model Performance Details
 Per-Digit Accuracy (Best Model - SVM)
