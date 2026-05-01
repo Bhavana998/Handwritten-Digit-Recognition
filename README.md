@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition Using MNIST Dataset
+# Handwritten Digit Recognition Using MNIST 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iogJp_1jGp3csVtF3cw61U8PE36KGcOU?usp=sharing)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
